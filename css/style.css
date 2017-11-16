@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500|Roboto:400,700');
+#logo {
+  display: block;
+  margin: 20px auto;
+}
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+}
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+#navbar-primary.navbar-default .navbar-nav li {
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  float: none;
+}
+#navbar-primary.navbar-default .navbar-nav li a {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #ff5160;
+  color: white;
+}
+header {
+  text-align: center;
+  background: url('https://images.pexels.com/photos/9508/city-woman-view-blue-sky.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb');
+  background-size: cover;
+  color: white;
+}
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: regular;
+  text-align: center;
+}
+h3 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+a {
+  color: white;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 16px;
+  size: 200px;
+  color: #1e1e1a;
+  font-family: 'Roboto', sans-serif;
+}
+placeholder {
+  color: #ccc9c9;
+  font-family: 'Roboto', sans-serif;
+}
+input[type="submit"] {
+  background: #ff5160;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+#a {
+  padding: 10px;
+  background: rgba(100, 100, 80, 0.5);
+  font-family: 'Roboto', sans-serif;
+}
+#b {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  padding: 0px 10px 0px 10px;
+}
+#c {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  padding: 0px 10px 0px 10px;
+}
+#d {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  padding: 0px 10px 0px 10px;
+}
+article {
+  font-family: 'Raleway', sans-serif;
+  font-weight: regular;
+}
